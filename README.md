@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalfaro1996" alt="jalfaro1996" /></a> </p>
 
-- 🔭 I’m currently working on **Blackjack counting Practice**
+- 🔭 I’m currently working on **ASL Tracker**
 
 - 🌱 I’m currently learning **MongoDB, Python, SQLite3**
 
